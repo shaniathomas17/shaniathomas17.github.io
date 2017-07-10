@@ -15,7 +15,6 @@ She the type that if you get her, you can brag
 *Little shawty got her own and I like that
 Hit the mall,
 *item 3a she ain't worried 'bout a price tag
-*She can get whatever she* want
- She can get that new Saint Laurent
+*She can get whatever she* want She can get that new Saint Laurent
  *item3a I could put that Rollie on her arm
 And I can get the bracelet with the charm
