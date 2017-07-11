@@ -23,5 +23,7 @@ padding-bottom:200px;
 }
 body
 {
-  color: yellow;
+  color: navy;
+  font-size:10px;
+  text-align:center; 
 }
