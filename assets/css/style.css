@@ -13,5 +13,6 @@ h1
 .splashimage
 {
   background-image: url("../jamaican photo.jpg");
-  padding: 150px;
+  padding: 400px;
+  margin: inherit;
 }
