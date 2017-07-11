@@ -13,8 +13,8 @@ h1
 .splashimage
 {
   background-image: url("../jamaican photo.jpg");
-padding-top: 500px;
-padding-bottom:500px;
+padding-top: 700px;
+padding-bottom:700px;
   color:red;
   font-size:20px;
   font-family:sans-serif;
@@ -25,5 +25,5 @@ body
 {
   color: navy;
   font-size:10px;
-  text-align:center; 
+  text-align:center;
 }
