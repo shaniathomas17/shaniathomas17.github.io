@@ -15,4 +15,7 @@ h1
   background-image: url("../jamaican photo.jpg");
   padding: 400px;
   color:red;
+  font-size:20px;
+  font-family:sans-serif;
+  text-align: center;
 }
