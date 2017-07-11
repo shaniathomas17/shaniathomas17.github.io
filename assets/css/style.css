@@ -9,3 +9,8 @@ h1
   padding:50px;
   border: 1px solid blue;
 }
+
+.splashimage
+{
+  background-image: url("../jamaican photo.jpg");
+}
