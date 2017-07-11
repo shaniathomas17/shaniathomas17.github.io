@@ -33,5 +33,10 @@ body
   font-size:10px;
   text-align:center;
   font-family: Bellefair,serif;
-  
+
+}
+
+*
+{
+  font-size:20px;
 }
